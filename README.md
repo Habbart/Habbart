@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Habbart
 - 👀 I’m interested in finding new possiblities for grow up as programmer
-- 🌱 I’m currently learning Spring Boot, Docker.
+- 🌱 I’m currently learning Java
 - 📫 You can reach my by mail - habbart@yandex.ru
 - This projects I have for now :
 - test project. [Admin panel on game server](https://github.com/Habbart/test_Javarush/tree/master)
